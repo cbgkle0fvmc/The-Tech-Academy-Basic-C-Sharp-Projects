@@ -18,6 +18,7 @@ namespace shippingQuote
             {
                 Console.WriteLine("Package is too heavy to be shipped via Package Express. Have a good day");
             }
+           
 
             Console.WriteLine("Please enter a package width.");
             int packageWidth = Convert.ToInt32(Console.ReadLine());
@@ -25,8 +26,9 @@ namespace shippingQuote
             Console.WriteLine("Please enter a package height");
             int packageHeight = Convert.ToInt32(Console.ReadLine());
 
-            int shippingCalculation = packageHeight * packageWidth * packageWeight * packageWeight / 100;
-            Console.WriteLine("Your estimated total for shipping this package is: $" + shippingCalculation);
+            double shippingCost = packageHeight * packageWidth * packageWeight * packageWeight / 100;
+
+            Console.WriteLine("Your estimated total for shipping this package is: " + shippingCost.ToString("C"));
             
             Console.ReadLine();
         }

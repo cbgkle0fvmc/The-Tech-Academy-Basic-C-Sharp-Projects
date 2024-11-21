@@ -5,3 +5,10 @@ C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\shippingQuote\shippingQuote\ob
 C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\shippingQuote\shippingQuote\obj\Debug\shippingQuote.csproj.CoreCompileInputs.cache
 C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\shippingQuote\shippingQuote\obj\Debug\shippingQuote.exe
 C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\shippingQuote\shippingQuote\obj\Debug\shippingQuote.pdb
+C:\Users\cordo\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\shippingQuote\shippingQuote\bin\Debug\shippingQuote.exe.config
+C:\Users\cordo\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\shippingQuote\shippingQuote\bin\Debug\shippingQuote.exe
+C:\Users\cordo\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\shippingQuote\shippingQuote\bin\Debug\shippingQuote.pdb
+C:\Users\cordo\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\shippingQuote\shippingQuote\obj\Debug\shippingQuote.csproj.AssemblyReference.cache
+C:\Users\cordo\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\shippingQuote\shippingQuote\obj\Debug\shippingQuote.csproj.CoreCompileInputs.cache
+C:\Users\cordo\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\shippingQuote\shippingQuote\obj\Debug\shippingQuote.exe
+C:\Users\cordo\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\shippingQuote\shippingQuote\obj\Debug\shippingQuote.pdb
