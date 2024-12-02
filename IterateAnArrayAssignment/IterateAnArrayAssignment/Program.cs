@@ -89,12 +89,30 @@ namespace IterateAnArrayAssignment
             stringList.Add("Turkey");
             stringList.Add("House");
 
-            List <string> distinctstringlist = stringList.Distinct().ToList();
+            // Initialize a HashSet to track seen strings.
+            HashSet<string> seenStrings = new HashSet<string>();
+
+            // Loop through each string in the list.
             foreach (string str in stringList)
             {
-                
-                Console.WriteLine(str);
+                // Check if the string has already been seen.
+                if (seenStrings.Contains(str))
+                {
+                    Console.WriteLine($"{str} - this item is a duplicate");
+                }
+                else
+                {
+                    Console.WriteLine($"{str} - this item is unique");
+                    seenStrings.Add(str); // Mark the string as seen.
+                }
             }
+
+            //List <string> distinctstringlist = stringList.Distinct().ToList();
+            //foreach (string str in stringList)
+            //{
+
+            //    Console.WriteLine(str);
+            //}
 
 
             Console.ReadLine();
