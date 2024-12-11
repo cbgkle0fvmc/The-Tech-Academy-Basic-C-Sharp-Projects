@@ -1,0 +1,7 @@
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\DailyReportConsole\DailyReportConsole\bin\Debug\DailyReportConsole.exe.config
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\DailyReportConsole\DailyReportConsole\bin\Debug\DailyReportConsole.exe
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\DailyReportConsole\DailyReportConsole\bin\Debug\DailyReportConsole.pdb
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\DailyReportConsole\DailyReportConsole\obj\Debug\DailyReportConsole.csproj.AssemblyReference.cache
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\DailyReportConsole\DailyReportConsole\obj\Debug\DailyReportConsole.csproj.CoreCompileInputs.cache
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\DailyReportConsole\DailyReportConsole\obj\Debug\DailyReportConsole.exe
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\DailyReportConsole\DailyReportConsole\obj\Debug\DailyReportConsole.pdb

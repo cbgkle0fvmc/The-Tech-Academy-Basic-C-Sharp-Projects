@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cordo\\OneDrive\\Desktop\\Basic C# Programs\\Score\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A86B421A-25ED-4551-AC3A-1CF82D369013}|Score\\Score.vbproj|c:\\users\\cordo\\onedrive\\desktop\\basic c# programs\\score\\score\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A86B421A-25ED-4551-AC3A-1CF82D369013}|Score\\Score.vbproj|solutionrelative:score\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Desktop\\Basic C# Programs\\Score\\Score\\Program.vb",
+              "RelativeDocumentMoniker": "Score\\Program.vb",
+              "ToolTip": "C:\\Users\\cordo\\OneDrive\\Desktop\\Basic C# Programs\\Score\\Score\\Program.vb",
+              "RelativeToolTip": "Score\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-16T20:45:35.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

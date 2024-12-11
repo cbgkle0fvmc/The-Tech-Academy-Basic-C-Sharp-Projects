@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cordo\\OneDrive\\Desktop\\Basic C# Programs\\stringAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6C33A0-2768-4DB2-B43B-D5DCC68FA138}|stringAssignment\\stringAssignment.csproj|c:\\users\\cordo\\onedrive\\desktop\\basic c# programs\\stringassignment\\stringassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6C33A0-2768-4DB2-B43B-D5DCC68FA138}|stringAssignment\\stringAssignment.csproj|solutionrelative:stringassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Desktop\\Basic C# Programs\\stringAssignment\\stringAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "stringAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\cordo\\OneDrive\\Desktop\\Basic C# Programs\\stringAssignment\\stringAssignment\\Program.cs",
+              "RelativeToolTip": "stringAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:43:22.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

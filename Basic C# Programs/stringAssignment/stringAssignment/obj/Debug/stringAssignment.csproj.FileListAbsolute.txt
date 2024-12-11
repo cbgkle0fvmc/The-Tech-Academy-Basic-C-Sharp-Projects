@@ -1,0 +1,7 @@
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\stringAssignment\stringAssignment\bin\Debug\stringAssignment.exe.config
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\stringAssignment\stringAssignment\bin\Debug\stringAssignment.exe
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\stringAssignment\stringAssignment\bin\Debug\stringAssignment.pdb
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\stringAssignment\stringAssignment\obj\Debug\stringAssignment.csproj.AssemblyReference.cache
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\stringAssignment\stringAssignment\obj\Debug\stringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\stringAssignment\stringAssignment\obj\Debug\stringAssignment.exe
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\stringAssignment\stringAssignment\obj\Debug\stringAssignment.pdb

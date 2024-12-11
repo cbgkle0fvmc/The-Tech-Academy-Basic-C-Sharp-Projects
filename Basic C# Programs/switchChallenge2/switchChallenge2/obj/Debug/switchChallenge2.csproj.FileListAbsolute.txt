@@ -1,0 +1,7 @@
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\switchChallenge2\switchChallenge2\bin\Debug\switchChallenge2.exe.config
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\switchChallenge2\switchChallenge2\bin\Debug\switchChallenge2.exe
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\switchChallenge2\switchChallenge2\bin\Debug\switchChallenge2.pdb
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\switchChallenge2\switchChallenge2\obj\Debug\switchChallenge2.csproj.AssemblyReference.cache
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\switchChallenge2\switchChallenge2\obj\Debug\switchChallenge2.csproj.CoreCompileInputs.cache
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\switchChallenge2\switchChallenge2\obj\Debug\switchChallenge2.exe
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\switchChallenge2\switchChallenge2\obj\Debug\switchChallenge2.pdb

@@ -1,0 +1,7 @@
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\while_do_Assignment\while_do_Assignment\bin\Debug\while_do_Assignment.exe.config
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\while_do_Assignment\while_do_Assignment\bin\Debug\while_do_Assignment.exe
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\while_do_Assignment\while_do_Assignment\bin\Debug\while_do_Assignment.pdb
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\while_do_Assignment\while_do_Assignment\obj\Debug\while_do_Assignment.csproj.AssemblyReference.cache
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\while_do_Assignment\while_do_Assignment\obj\Debug\while_do_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\while_do_Assignment\while_do_Assignment\obj\Debug\while_do_Assignment.exe
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\while_do_Assignment\while_do_Assignment\obj\Debug\while_do_Assignment.pdb

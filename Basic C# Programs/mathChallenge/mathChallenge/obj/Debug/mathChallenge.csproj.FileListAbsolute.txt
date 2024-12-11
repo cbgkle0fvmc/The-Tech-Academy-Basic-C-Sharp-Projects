@@ -1,0 +1,7 @@
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\mathChallenge\mathChallenge\bin\Debug\mathChallenge.exe.config
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\mathChallenge\mathChallenge\bin\Debug\mathChallenge.exe
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\mathChallenge\mathChallenge\bin\Debug\mathChallenge.pdb
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\mathChallenge\mathChallenge\obj\Debug\mathChallenge.csproj.AssemblyReference.cache
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\mathChallenge\mathChallenge\obj\Debug\mathChallenge.csproj.CoreCompileInputs.cache
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\mathChallenge\mathChallenge\obj\Debug\mathChallenge.exe
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\mathChallenge\mathChallenge\obj\Debug\mathChallenge.pdb

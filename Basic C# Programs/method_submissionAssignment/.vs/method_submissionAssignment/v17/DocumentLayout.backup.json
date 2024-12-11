@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cordo\\OneDrive\\Desktop\\Basic C# Programs\\method_submissionAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B65F309-4137-4603-8012-80324CA58EFB}|method_submissionAssignment\\method_submissionAssignment.csproj|c:\\users\\cordo\\onedrive\\desktop\\basic c# programs\\method_submissionassignment\\method_submissionassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B65F309-4137-4603-8012-80324CA58EFB}|method_submissionAssignment\\method_submissionAssignment.csproj|solutionrelative:method_submissionassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B65F309-4137-4603-8012-80324CA58EFB}|method_submissionAssignment\\method_submissionAssignment.csproj|c:\\users\\cordo\\onedrive\\desktop\\basic c# programs\\method_submissionassignment\\method_submissionassignment\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B65F309-4137-4603-8012-80324CA58EFB}|method_submissionAssignment\\method_submissionAssignment.csproj|solutionrelative:method_submissionassignment\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "math.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Desktop\\Basic C# Programs\\method_submissionAssignment\\method_submissionAssignment\\math.cs",
+              "RelativeDocumentMoniker": "method_submissionAssignment\\math.cs",
+              "ToolTip": "C:\\Users\\cordo\\OneDrive\\Desktop\\Basic C# Programs\\method_submissionAssignment\\method_submissionAssignment\\math.cs",
+              "RelativeToolTip": "method_submissionAssignment\\math.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:06:12.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "784a8e12-5226-44f7-9c11-3bbfdad5afcb",
+        "Display": 0,
+        "X": 39,
+        "Y": 384,
+        "Width": 1238,
+        "Height": 645,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Desktop\\Basic C# Programs\\method_submissionAssignment\\method_submissionAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "method_submissionAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\cordo\\OneDrive\\Desktop\\Basic C# Programs\\method_submissionAssignment\\method_submissionAssignment\\Program.cs",
+              "RelativeToolTip": "method_submissionAssignment\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T01:56:25.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

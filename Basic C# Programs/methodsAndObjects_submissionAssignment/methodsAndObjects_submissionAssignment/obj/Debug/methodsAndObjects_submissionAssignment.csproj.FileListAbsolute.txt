@@ -1,0 +1,7 @@
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\methodsAndObjects_submissionAssignment\methodsAndObjects_submissionAssignment\bin\Debug\methodsAndObjects_submissionAssignment.exe.config
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\methodsAndObjects_submissionAssignment\methodsAndObjects_submissionAssignment\bin\Debug\methodsAndObjects_submissionAssignment.exe
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\methodsAndObjects_submissionAssignment\methodsAndObjects_submissionAssignment\bin\Debug\methodsAndObjects_submissionAssignment.pdb
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\methodsAndObjects_submissionAssignment\methodsAndObjects_submissionAssignment\obj\Debug\methodsAndObjects_submissionAssignment.csproj.AssemblyReference.cache
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\methodsAndObjects_submissionAssignment\methodsAndObjects_submissionAssignment\obj\Debug\methodsAndObjects_submissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\methodsAndObjects_submissionAssignment\methodsAndObjects_submissionAssignment\obj\Debug\methodsAndObjects_submissionAssignment.exe
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\methodsAndObjects_submissionAssignment\methodsAndObjects_submissionAssignment\obj\Debug\methodsAndObjects_submissionAssignment.pdb

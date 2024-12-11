@@ -1,0 +1,7 @@
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\greaterLessThanOperators\greaterLessThanOperators\bin\Debug\greaterLessThanOperators.exe.config
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\greaterLessThanOperators\greaterLessThanOperators\bin\Debug\greaterLessThanOperators.exe
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\greaterLessThanOperators\greaterLessThanOperators\bin\Debug\greaterLessThanOperators.pdb
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\greaterLessThanOperators\greaterLessThanOperators\obj\Debug\greaterLessThanOperators.csproj.AssemblyReference.cache
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\greaterLessThanOperators\greaterLessThanOperators\obj\Debug\greaterLessThanOperators.csproj.CoreCompileInputs.cache
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\greaterLessThanOperators\greaterLessThanOperators\obj\Debug\greaterLessThanOperators.exe
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\greaterLessThanOperators\greaterLessThanOperators\obj\Debug\greaterLessThanOperators.pdb
