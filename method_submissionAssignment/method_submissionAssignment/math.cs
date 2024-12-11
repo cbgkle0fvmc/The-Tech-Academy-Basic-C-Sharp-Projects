@@ -8,7 +8,8 @@ namespace method_submissionAssignment
 {
     public class math
     {
-        public int operation (int x, int y) 
+        //Make second input optional by declaring default value 
+        public int operation (int x, int y=0) 
         { return x + y; }
     }
 }

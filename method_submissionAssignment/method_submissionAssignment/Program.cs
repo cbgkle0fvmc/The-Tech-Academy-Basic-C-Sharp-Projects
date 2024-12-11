@@ -15,9 +15,23 @@ namespace method_submissionAssignment
             int intInput = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Please input second optional integer.");
-            int secondIntInput = Convert.ToInt32(Console.ReadLine());
+            string secondIntInput = Console.ReadLine();
 
-            Console.WriteLine(math.operation(intInput, secondIntInput));
+            int result;
+            if (string.IsNullOrEmpty(secondIntInput))
+            {
+                //Call the method with only the first number 
+                result = math.operation(intInput);
+            }
+            else
+            {
+                //Parse the second number and call the method with both numbers
+                int num2 = int.Parse(secondIntInput);
+                result = math.operation(intInput, num2);
+            }
+
+            //Display the result
+            Console.WriteLine("The result is: " + result);
 
             Console.ReadLine();
 
