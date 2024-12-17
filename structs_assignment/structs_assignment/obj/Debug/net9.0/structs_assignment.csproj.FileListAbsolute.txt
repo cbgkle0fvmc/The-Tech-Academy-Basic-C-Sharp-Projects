@@ -1,0 +1,14 @@
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\structs_assignment\structs_assignment\obj\Debug\net9.0\structs_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\structs_assignment\structs_assignment\obj\Debug\net9.0\structs_assignment.AssemblyInfoInputs.cache
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\structs_assignment\structs_assignment\obj\Debug\net9.0\structs_assignment.AssemblyInfo.cs
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\structs_assignment\structs_assignment\obj\Debug\net9.0\structs_assignment.csproj.CoreCompileInputs.cache
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\structs_assignment\structs_assignment\bin\Debug\net9.0\structs_assignment.exe
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\structs_assignment\structs_assignment\bin\Debug\net9.0\structs_assignment.deps.json
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\structs_assignment\structs_assignment\bin\Debug\net9.0\structs_assignment.runtimeconfig.json
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\structs_assignment\structs_assignment\bin\Debug\net9.0\structs_assignment.dll
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\structs_assignment\structs_assignment\bin\Debug\net9.0\structs_assignment.pdb
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\structs_assignment\structs_assignment\obj\Debug\net9.0\structs_assignment.dll
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\structs_assignment\structs_assignment\obj\Debug\net9.0\refint\structs_assignment.dll
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\structs_assignment\structs_assignment\obj\Debug\net9.0\structs_assignment.pdb
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\structs_assignment\structs_assignment\obj\Debug\net9.0\structs_assignment.genruntimeconfig.cache
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\structs_assignment\structs_assignment\obj\Debug\net9.0\ref\structs_assignment.dll

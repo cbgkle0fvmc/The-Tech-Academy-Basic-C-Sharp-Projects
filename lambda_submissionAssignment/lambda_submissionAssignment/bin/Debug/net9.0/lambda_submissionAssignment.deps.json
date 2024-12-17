@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "lambda_submissionAssignment/1.0.0": {
+        "runtime": {
+          "lambda_submissionAssignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lambda_submissionAssignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
