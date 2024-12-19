@@ -1,0 +1,14 @@
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\inputAssignment\inputAssignment\obj\Debug\net9.0\inputAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\inputAssignment\inputAssignment\obj\Debug\net9.0\inputAssignment.AssemblyInfoInputs.cache
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\inputAssignment\inputAssignment\obj\Debug\net9.0\inputAssignment.AssemblyInfo.cs
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\inputAssignment\inputAssignment\obj\Debug\net9.0\inputAssignment.csproj.CoreCompileInputs.cache
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\inputAssignment\inputAssignment\bin\Debug\net9.0\inputAssignment.exe
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\inputAssignment\inputAssignment\bin\Debug\net9.0\inputAssignment.deps.json
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\inputAssignment\inputAssignment\bin\Debug\net9.0\inputAssignment.runtimeconfig.json
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\inputAssignment\inputAssignment\bin\Debug\net9.0\inputAssignment.dll
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\inputAssignment\inputAssignment\bin\Debug\net9.0\inputAssignment.pdb
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\inputAssignment\inputAssignment\obj\Debug\net9.0\inputAssignment.dll
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\inputAssignment\inputAssignment\obj\Debug\net9.0\refint\inputAssignment.dll
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\inputAssignment\inputAssignment\obj\Debug\net9.0\inputAssignment.pdb
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\inputAssignment\inputAssignment\obj\Debug\net9.0\inputAssignment.genruntimeconfig.cache
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\inputAssignment\inputAssignment\obj\Debug\net9.0\ref\inputAssignment.dll
