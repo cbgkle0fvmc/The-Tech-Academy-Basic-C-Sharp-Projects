@@ -1,0 +1,14 @@
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\dateTime_submissionAssignment_\dateTime_submissionAssignment_\bin\Debug\net9.0\dateTime_submissionAssignment_.exe
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\dateTime_submissionAssignment_\dateTime_submissionAssignment_\bin\Debug\net9.0\dateTime_submissionAssignment_.deps.json
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\dateTime_submissionAssignment_\dateTime_submissionAssignment_\bin\Debug\net9.0\dateTime_submissionAssignment_.runtimeconfig.json
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\dateTime_submissionAssignment_\dateTime_submissionAssignment_\bin\Debug\net9.0\dateTime_submissionAssignment_.dll
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\dateTime_submissionAssignment_\dateTime_submissionAssignment_\bin\Debug\net9.0\dateTime_submissionAssignment_.pdb
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\dateTime_submissionAssignment_\dateTime_submissionAssignment_\obj\Debug\net9.0\dateTime_submissionAssignment_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\dateTime_submissionAssignment_\dateTime_submissionAssignment_\obj\Debug\net9.0\dateTime_submissionAssignment_.AssemblyInfoInputs.cache
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\dateTime_submissionAssignment_\dateTime_submissionAssignment_\obj\Debug\net9.0\dateTime_submissionAssignment_.AssemblyInfo.cs
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\dateTime_submissionAssignment_\dateTime_submissionAssignment_\obj\Debug\net9.0\dateTime_submissionAssignment_.csproj.CoreCompileInputs.cache
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\dateTime_submissionAssignment_\dateTime_submissionAssignment_\obj\Debug\net9.0\dateTime_submissionAssignment_.dll
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\dateTime_submissionAssignment_\dateTime_submissionAssignment_\obj\Debug\net9.0\refint\dateTime_submissionAssignment_.dll
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\dateTime_submissionAssignment_\dateTime_submissionAssignment_\obj\Debug\net9.0\dateTime_submissionAssignment_.pdb
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\dateTime_submissionAssignment_\dateTime_submissionAssignment_\obj\Debug\net9.0\dateTime_submissionAssignment_.genruntimeconfig.cache
+C:\Users\cordo\OneDrive\Desktop\Basic C# Programs\dateTime_submissionAssignment_\dateTime_submissionAssignment_\obj\Debug\net9.0\ref\dateTime_submissionAssignment_.dll
