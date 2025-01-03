@@ -1,0 +1,7 @@
+C:\Users\cordo\source\repos\C#_Challenge_submissionAssignment\C#_Challenge_submissionAssignment\obj\Release\net8.0\PubTmp\Out\C#_Challenge_submissionAssignment.exe
+C:\Users\cordo\source\repos\C#_Challenge_submissionAssignment\C#_Challenge_submissionAssignment\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\cordo\source\repos\C#_Challenge_submissionAssignment\C#_Challenge_submissionAssignment\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\cordo\source\repos\C#_Challenge_submissionAssignment\C#_Challenge_submissionAssignment\obj\Release\net8.0\PubTmp\Out\C#_Challenge_submissionAssignment.dll
+C:\Users\cordo\source\repos\C#_Challenge_submissionAssignment\C#_Challenge_submissionAssignment\obj\Release\net8.0\PubTmp\Out\C#_Challenge_submissionAssignment.deps.json
+C:\Users\cordo\source\repos\C#_Challenge_submissionAssignment\C#_Challenge_submissionAssignment\obj\Release\net8.0\PubTmp\Out\C#_Challenge_submissionAssignment.runtimeconfig.json
+C:\Users\cordo\source\repos\C#_Challenge_submissionAssignment\C#_Challenge_submissionAssignment\obj\Release\net8.0\PubTmp\Out\C#_Challenge_submissionAssignment.pdb
