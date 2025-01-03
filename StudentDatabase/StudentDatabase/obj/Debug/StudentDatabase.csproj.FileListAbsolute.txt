@@ -1,0 +1,14 @@
+C:\Users\cordo\source\repos\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.exe.config
+C:\Users\cordo\source\repos\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.exe
+C:\Users\cordo\source\repos\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.pdb
+C:\Users\cordo\source\repos\StudentDatabase\StudentDatabase\bin\Debug\EntityFramework.dll
+C:\Users\cordo\source\repos\StudentDatabase\StudentDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cordo\source\repos\StudentDatabase\StudentDatabase\bin\Debug\EntityFramework.xml
+C:\Users\cordo\source\repos\StudentDatabase\StudentDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cordo\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.AssemblyReference.cache
+C:\Users\cordo\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\cordo\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentD.AC84E7A9.Up2Date
+C:\Users\cordo\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.exe
+C:\Users\cordo\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.pdb
+C:\Users\cordo\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.Migrations.CreatePost.resources
+C:\Users\cordo\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.GenerateResource.cache
